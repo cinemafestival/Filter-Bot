@@ -28,9 +28,7 @@ from bot.modules.connection import connect_button
 
 PM_START_TEXT = """
 *Hello* *{}*
-*My name is* *{}*\n\n`You Can Add any kind of Filters to This Bot!`
-
-_Click Help button for more details_
+*My name is* *{}*\n\n`😞 Sorry Bruh This Bot Can Be Only Used in Cinema _
 """
 
 
@@ -71,7 +69,7 @@ GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
-    img = "https://telegra.ph/file/fc734b227985a1524e715.jpg"
+    img = "
 else:
   img = START_IMG    
     
