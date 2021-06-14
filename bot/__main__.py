@@ -28,7 +28,7 @@ from bot.modules.connection import connect_button
 
 PM_START_TEXT = """
 *Hello* *{}*
-*My name is* *{}*\n\n`😞 Sorry Bruh, I can only be used in Cinema Festival Disscuss. !`
+*My name is* *{}*\n\n`😞 Sorry Bruh, I can only be used in [MOVIE ARCADE](https://t.me/MOVIE_ARCADE). !`
 
 _Click Help button for more details_
 """
